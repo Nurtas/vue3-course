@@ -1,5 +1,7 @@
 # vue3-course
 
+## Course link: <a href="https://www.youtube.com/watch?v=XzLuMtDelGk&list=PL6DxKON1uLOHyPVa0XhcqcW2RhDytDpAI&index=3">Vue 3 фундаментальный курс от А до Я</a>
+
 ## Project setup
 ```
 npm install
